@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/LD-QR-Demo/static/css/main.323351f8.chunk.css",
-    "main.js": "/LD-QR-Demo/static/js/main.69290f5a.chunk.js",
-    "main.js.map": "/LD-QR-Demo/static/js/main.69290f5a.chunk.js.map",
-    "runtime-main.js": "/LD-QR-Demo/static/js/runtime-main.6a286fe2.js",
-    "runtime-main.js.map": "/LD-QR-Demo/static/js/runtime-main.6a286fe2.js.map",
-    "static/js/2.4a0d27d1.chunk.js": "/LD-QR-Demo/static/js/2.4a0d27d1.chunk.js",
-    "static/js/2.4a0d27d1.chunk.js.map": "/LD-QR-Demo/static/js/2.4a0d27d1.chunk.js.map",
-    "static/js/3.7b3181e0.chunk.js": "/LD-QR-Demo/static/js/3.7b3181e0.chunk.js",
-    "static/js/3.7b3181e0.chunk.js.map": "/LD-QR-Demo/static/js/3.7b3181e0.chunk.js.map",
-    "index.html": "/LD-QR-Demo/index.html",
-    "static/css/main.323351f8.chunk.css.map": "/LD-QR-Demo/static/css/main.323351f8.chunk.css.map",
-    "static/js/2.4a0d27d1.chunk.js.LICENSE.txt": "/LD-QR-Demo/static/js/2.4a0d27d1.chunk.js.LICENSE.txt",
-    "static/media/heart.3d7839e5.svg": "/LD-QR-Demo/static/media/heart.3d7839e5.svg",
-    "static/media/ld_logo_white.c7ccd94b.png": "/LD-QR-Demo/static/media/ld_logo_white.c7ccd94b.png",
-    "static/media/ld_logo_white_old.a7492e3d.png": "/LD-QR-Demo/static/media/ld_logo_white_old.a7492e3d.png",
-    "static/media/toggle.1d752285.png": "/LD-QR-Demo/static/media/toggle.1d752285.png",
-    "static/media/toggle_old.09554e17.png": "/LD-QR-Demo/static/media/toggle_old.09554e17.png"
+    "main.css": "/LD-QR-Demo/react_qr_app/static/css/main.323351f8.chunk.css",
+    "main.js": "/LD-QR-Demo/react_qr_app/static/js/main.1a5ac199.chunk.js",
+    "main.js.map": "/LD-QR-Demo/react_qr_app/static/js/main.1a5ac199.chunk.js.map",
+    "runtime-main.js": "/LD-QR-Demo/react_qr_app/static/js/runtime-main.644b87e8.js",
+    "runtime-main.js.map": "/LD-QR-Demo/react_qr_app/static/js/runtime-main.644b87e8.js.map",
+    "static/js/2.4a0d27d1.chunk.js": "/LD-QR-Demo/react_qr_app/static/js/2.4a0d27d1.chunk.js",
+    "static/js/2.4a0d27d1.chunk.js.map": "/LD-QR-Demo/react_qr_app/static/js/2.4a0d27d1.chunk.js.map",
+    "static/js/3.7b3181e0.chunk.js": "/LD-QR-Demo/react_qr_app/static/js/3.7b3181e0.chunk.js",
+    "static/js/3.7b3181e0.chunk.js.map": "/LD-QR-Demo/react_qr_app/static/js/3.7b3181e0.chunk.js.map",
+    "index.html": "/LD-QR-Demo/react_qr_app/index.html",
+    "static/css/main.323351f8.chunk.css.map": "/LD-QR-Demo/react_qr_app/static/css/main.323351f8.chunk.css.map",
+    "static/js/2.4a0d27d1.chunk.js.LICENSE.txt": "/LD-QR-Demo/react_qr_app/static/js/2.4a0d27d1.chunk.js.LICENSE.txt",
+    "static/media/heart.3d7839e5.svg": "/LD-QR-Demo/react_qr_app/static/media/heart.3d7839e5.svg",
+    "static/media/ld_logo_white.c7ccd94b.png": "/LD-QR-Demo/react_qr_app/static/media/ld_logo_white.c7ccd94b.png",
+    "static/media/ld_logo_white_old.a7492e3d.png": "/LD-QR-Demo/react_qr_app/static/media/ld_logo_white_old.a7492e3d.png",
+    "static/media/toggle.1d752285.png": "/LD-QR-Demo/react_qr_app/static/media/toggle.1d752285.png",
+    "static/media/toggle_old.09554e17.png": "/LD-QR-Demo/react_qr_app/static/media/toggle_old.09554e17.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a286fe2.js",
+    "static/js/runtime-main.644b87e8.js",
     "static/js/2.4a0d27d1.chunk.js",
     "static/css/main.323351f8.chunk.css",
-    "static/js/main.69290f5a.chunk.js"
+    "static/js/main.1a5ac199.chunk.js"
   ]
 }
