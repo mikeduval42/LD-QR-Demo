@@ -14,13 +14,39 @@ let id = getUserId();
 (async () => {
   const LDProvider = await asyncWithLDProvider({
     clientSideID: CLIENTKEY,
-    user: {
-      key: id,
-      //dynamically set these custom attributes using the deviceType and osName selectors from the npm package
-      custom: {
-        device: deviceType,
-        operatingSystem: osName,
-      },
+    "kind": "multi",
+    "account": {
+      "key": "account-id-123abc",
+      "planType": "Enterprise",
+      "isTrial": false
+    },
+    "owner": {
+      "email": "sandy@example.com",
+      "firstName": "Sandy",
+      "lastName": "Smith"
+    },
+    "environment": {
+      "key": "environment-id-123abc"
+    },
+    "member": {
+      "key": "member-id-123abc",
+      "email": "sandy@example.com",
+      "hasConfiguredSSO": false
+    },
+    "user": {
+      "key": "user-key-abc123",
+      "name": "Sandy S",
+      "firstName": "Sandy",
+      "lastName": "Smith",
+      "email": "sandy@example.com",
+      "planType": "Enterprise",
+      "isTrial": false,
+      "hasConfiguredSSO": false,
+      "signupDate": 1641496710527,
+      "environmentId": "environment-id-123abc",
+      "memberId": "member-id-123abc",
+      "accountId": "account-id-123abc",
+      "organization": "Really big Company"
     },
   });
 
